@@ -1,0 +1,12 @@
+[project]
+name = "aiproj"
+version = "0.1.0"
+description = "AI agent creation"
+dependencies = [
+    "langchain",
+    "langgraph",
+    "langchain-community",
+    "python-dotenv",
+    "pyyaml",
+    "google-search-results"
+]

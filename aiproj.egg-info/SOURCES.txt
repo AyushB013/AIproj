@@ -1,0 +1,6 @@
+pyproject.toml
+aiproj.egg-info/PKG-INFO
+aiproj.egg-info/SOURCES.txt
+aiproj.egg-info/dependency_links.txt
+aiproj.egg-info/requires.txt
+aiproj.egg-info/top_level.txt

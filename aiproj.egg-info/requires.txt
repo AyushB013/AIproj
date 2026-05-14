@@ -1,0 +1,6 @@
+langchain
+langgraph
+langchain-community
+python-dotenv
+pyyaml
+google-search-results
